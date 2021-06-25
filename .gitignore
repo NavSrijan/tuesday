@@ -2,3 +2,4 @@ exchanger
 screenshotV
 the_evaluator.py
 __pycache__/the_evaluator.cpython-39.pyc
+.gitignore
